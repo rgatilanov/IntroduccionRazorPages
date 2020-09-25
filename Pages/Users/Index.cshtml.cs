@@ -21,9 +21,20 @@ namespace IntroduccionRazoPages.Pages.Users
 
         public IList<User> User { get;set; }
 
+        //Se agrega esta propiedad para integrar la búsqueda en el formulario
+        [BindProperty(SupportsGet = true)]
+        public string SearchString { get; set; }
         public async Task OnGetAsync()
         {
-            User = await _context.User.ToListAsync();
+            //User = await _context.User.ToListAsync(); //Se comenta línea y se agrega la siguiente
+            var users = from m in _context.User
+                         select m;
+            if (!string.IsNullOrEmpty(SearchString))
+            {
+                users = users.Where(s => s.Nick.Contains(SearchString));
+            }
+
+            User = await users.ToListAsync();
         }
     }
 }

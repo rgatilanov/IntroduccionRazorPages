@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CAJojxAbpgJ1zBqI5s5G7Vw9mOcXupHXfeLfZtPyxdv88jF0BFzeix26/9YqM58/4+9BDiBk5bKb2nnSLUHvdA==",
+  "dgSpecHash": "Lw7a4rOLSrSFnG2cPkyPdTNKrpPWlDE8JKMmLpU5p59ySzNSBFU62HB2uVmL9Oaj6zuwdw82cfIvKEHA5EwPlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ProBook 450 HP\\source\\repos\\IntroduccionRazoPages\\IntroduccionRazoPages.csproj",
+  "projectFilePath": "G:\\EjerciciosMTWDM2020\\IntroduccionRazorPages\\IntroduccionRazoPages.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -8814,11 +8814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ProBook 450 HP\\source\\repos\\IntroduccionRazoPages\\IntroduccionRazoPages.csproj",
+      "projectUniqueName": "G:\\EjerciciosMTWDM2020\\IntroduccionRazorPages\\IntroduccionRazoPages.csproj",
       "projectName": "IntroduccionRazoPages",
-      "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\IntroduccionRazoPages\\IntroduccionRazoPages.csproj",
+      "projectPath": "G:\\EjerciciosMTWDM2020\\IntroduccionRazorPages\\IntroduccionRazoPages.csproj",
       "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\IntroduccionRazoPages\\obj\\",
+      "outputPath": "G:\\EjerciciosMTWDM2020\\IntroduccionRazorPages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
